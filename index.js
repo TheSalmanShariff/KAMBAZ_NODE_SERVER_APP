@@ -35,7 +35,7 @@ mongoose.connect(CONNECTION_STRING)
         origin: [
           "http://localhost:3000",
           "http://localhost:5173", 
-          "https://kambaz-next-js-5ms5.vercel.app/"  // ⬅️ your Vercel frontend
+          "https://kambaz-next-js-5ms5.vercel.app"  // ⬅️ your Vercel frontend
         ],
       })
     );
